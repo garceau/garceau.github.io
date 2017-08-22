@@ -12,7 +12,7 @@ body {font: 300 16px/1.5 'Helvetica Neue', Helvetica, 'Roboto', arial, sans-seri
 h1, h2, h3, h4, h5, h6 {font-weight: 300}
 
 /* Header */
-header {position: relative;)
+header {position: relative; width: 100vw; height: 100vh;)
 .intro { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
 .title {font-weight: 200; font-size: 72px;}
 .subtitle {font-weight: 200; font-size: 24px;}
