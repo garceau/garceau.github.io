@@ -1,8 +1,18 @@
+/**
+ ** Tommy Garceau
+ ** garceau.github.io
+ **/
+
+/* Global Style/Reset */
 *, 
 *::before, 
 *::after {box-sizing: border-box; margin: 0; padding: 0;}
 html,
 body {font: 300 16px/1.5 'Helvetica Neue', Helvetica, 'Roboto', arial, sans-serif; color: #efefef; background: #333;}
 h1, h2, h3, h4, h5, h6 {font-weight: 300}
-h1.title {font-weight: 200; font-size: 72px;}
-h2.subtitle {font-weight: 200; font-size: 24px;}
+
+/* Header */
+header {position: relative;)
+.intro { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
+.title {font-weight: 200; font-size: 72px;}
+.subtitle {font-weight: 200; font-size: 24px;}
